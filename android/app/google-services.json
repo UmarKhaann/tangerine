@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061002888138",
+    "project_id": "tangerine-project-3b838",
+    "storage_bucket": "tangerine-project-3b838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061002888138:android:c3ed552469cf6ffedc4533",
+        "android_client_info": {
+          "package_name": "com.example.tangerine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxp3g9BD0oEG73z6tOUmmZrmean1JT-p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
